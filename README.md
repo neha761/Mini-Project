@@ -1,0 +1,2 @@
+# Mini-Project
+Security_Risk_Of_2_Indian_stock_Company
